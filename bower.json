@@ -1,0 +1,18 @@
+{
+  "name": "angular-touch",
+  "main": "angular-touch.js",
+  "version": "0.0.1",
+  "authors": [
+    "Nathan Walker <nathan.walker@bizbuilt.com>"
+  ],
+  "description": "Infowrap customized ngTouch module.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

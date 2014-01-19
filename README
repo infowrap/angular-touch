@@ -1,0 +1,1 @@
+Customized to remove ngClick directive override since FastClick is currently better.
