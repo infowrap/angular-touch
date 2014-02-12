@@ -1,7 +1,7 @@
 {
-  "name": "angular-touch",
+  "name": "infowrap-angular-touch",
   "main": "angular-touch.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     "Nathan Walker <nathan.walker@bizbuilt.com>"
   ],
